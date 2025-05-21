@@ -26,7 +26,3 @@ It then generates a potential band name using this information.
 
 ![image](https://github.com/user-attachments/assets/f96062e4-f688-42c5-9db3-052f70b5d0ed)
 
-
-
-## 📂 Project Structure
-
