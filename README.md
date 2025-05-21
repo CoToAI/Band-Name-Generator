@@ -1,6 +1,6 @@
 # 🎸 Band Name Generator 🎤
 
-This is a fun beginner Python project that generates a creative band name based on your personal inputs!
+Python project that generates a creative band name based on your personal inputs!
 
 ## 🧠 What I Learned
 
